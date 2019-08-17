@@ -1,5 +1,7 @@
 .login-pf body {
-    background-color: #ffffff;
+    background-color: #2e5477;
+    background: url(../img/bg-login.png) no-repeat center center fixed;
+    background-size: cover;
 }
 
 .alert-error {
@@ -99,6 +101,7 @@ div.kc-logo-text span {
     color: #d5e5ed;
     overflow: visible;
     white-space: nowrap;
+    background-color: #0313529c;
 }
 
 #kc-header-wrapper {
